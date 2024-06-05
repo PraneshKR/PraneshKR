@@ -10,7 +10,6 @@ This is Pranesh, An underGrad student who is wlling to have non stop learning
 * ✉️  You can contact me at [praneshkr1010@gmail.com](mailto:praneshkr1010@gmail.com)
 * 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on Any project involving backend development
-* ⚡  I am BATMAN
 
 ### Skills
 
