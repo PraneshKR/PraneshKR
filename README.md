@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DSA Student
 -----------
 
-This is Pranesh, An underGrad student who is wlling to have non stop learning
-
+This is Pranesh, An underGrad student from IIT Madras, Curious to learn.
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [praneshkr1010@gmail.com](mailto:praneshkr1010@gmail.com)
 * 🧠  I'm learning DSA
